@@ -20,6 +20,14 @@
     background-color: #3498db;
 }
 
+.ui-menu-column-github {
+    background-color: #FB551C;
+}
+
+.ui-menu-column-interests {
+    background-color: #1d2272;
+}
+
 .ui-menu-column-download {
     background-color: #525252;
 }
@@ -408,6 +416,12 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #e84610;
+}
+
+/* ------------------------------------ Interests */
+
+div#map {
+    min-height: 360px;
 }
 
 /* ------------------------------------ Media Queries */
